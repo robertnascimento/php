@@ -94,7 +94,6 @@ $conn->close();
         color: white;
         font-size: 30px;
         font-family: "Rethink Sans", sans-serif;
-        pointer-events: none;
       }
 
       .right {
@@ -108,7 +107,6 @@ $conn->close();
         );
         border-left: solid 7px;
         border-left-color: rgb(8, 253, 151);
-        z-index: -1;
         filter: grayscale(28%);
       }
 
